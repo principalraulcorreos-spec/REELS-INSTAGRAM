@@ -1,0 +1,10 @@
+grabaciones/*
+!grabaciones/.gitkeep
+salida/*
+!salida/.gitkeep
+*.onnx
+voices-*.bin
+__pycache__/
+*.pyc
+.venv/
+tmp/
